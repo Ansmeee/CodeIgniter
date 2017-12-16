@@ -1,7 +1,5 @@
 {
     "name": "CodeIgniter",
     "description": "App description...",
-    "require": {
-        "tecnickcom/tcpdf": "6.0.051"
-    }
+    "require": {}
 }
